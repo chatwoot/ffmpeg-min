@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name             = 'chatwoot-ffmpeg-kit-ios-min'
   s.version          = '6.0.2'
   s.summary          = 'FFmpeg iOS Binaries'
-  s.homepage         = 'https://github.com/chatwoot/ffmpeg'
+  s.homepage         = 'https://github.com/chatwoot/ffmpeg-min'
   s.license          = { :type => "LGPL-3.0" }
   s.authors          = 'chatwoot'
   s.platform         = :ios, '12.1'
